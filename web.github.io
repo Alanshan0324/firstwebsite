@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html style="background-color: black;">
 <head>
 	<title>My first web </title>
